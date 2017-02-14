@@ -132,7 +132,7 @@ LOGIN_REDIRECT_URL = "/"
 # Redirect cuando no esta la sesion iniciada o el login es incorrecto
 LOGIN_URL = '/login'
 
-GRAPPELLI_ADMIN_TITLE = "MANTENEDOR NETNOW"
+GRAPPELLI_ADMIN_TITLE = "MANTENEDOR SIRIUS"
 
 
 # Static files (CSS, JavaScript, Images)
